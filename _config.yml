@@ -1,0 +1,7 @@
+title: DealScope Docs
+description: Public documentation for DealScope, an AI brief layer for Salesforce records.
+url: https://docs.dscopeai.com
+baseurl: ""
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
