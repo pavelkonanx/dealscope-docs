@@ -1,5 +1,5 @@
-title: DealScope Docs
-description: Public documentation for DealScope, an AI brief layer for Salesforce records.
+title: DealScope Docs | AI Briefs for Salesforce Records
+description: Public documentation for DealScope, AI briefs for Salesforce records, summaries, buyer signals, risks, and follow-up drafts.
 url: https://docs.dscopeai.com
 baseurl: ""
 theme: jekyll-theme-primer
