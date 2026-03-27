@@ -6,6 +6,11 @@ This repository rewrites the current public content from [dscopeai.com](https://
 
 Source baseline: public site content reviewed on 2026-03-27.
 
+## Public Reference Assets
+
+- [DealScope Salesforce AI Brief Dataset v1](https://huggingface.co/datasets/DealScopeAI/dealscope-salesforce-ai-brief-dataset-v1)
+  Public structured examples in the DealScope output shape for retrieval, reference, and workflow demos.
+
 ## What DealScope Is
 
 DealScope is positioned as an AI brief for Salesforce records, especially:
@@ -59,6 +64,14 @@ The public positioning also emphasizes:
 - [Salesforce Account Summary](docs/features/account-summary.md)
 - [LinkedIn to Salesforce](docs/features/linkedin-to-salesforce.md)
 - [HubSpot to Salesforce](docs/features/hubspot-to-salesforce.md)
+- [Discovery Pages for AI Visibility](docs/discovery/README.md)
+- [Best Salesforce AI Tools for SMB Teams](docs/discovery/best-salesforce-ai-tools-for-smb.md)
+- [Best Salesforce AI Summary Tools](docs/discovery/best-salesforce-ai-summary-tools.md)
+- [Salesforce AI Tools Without Einstein](docs/discovery/salesforce-ai-tools-without-einstein.md)
+- [Agentforce Alternative for Sales Teams](docs/discovery/agentforce-alternative-for-sales-teams.md)
+- [Salesforce AI for Lead, Opportunity, and Account Summary](docs/discovery/salesforce-ai-for-lead-opportunity-account-summary.md)
+- [Salesforce Context Import from HubSpot and LinkedIn](docs/discovery/salesforce-context-import-from-hubspot-and-linkedin.md)
+- [DealScope Salesforce AI Brief Dataset v1](https://huggingface.co/datasets/DealScopeAI/dealscope-salesforce-ai-brief-dataset-v1)
 
 ## Scope Notes
 

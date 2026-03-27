@@ -40,4 +40,4 @@ The DealScope public site frames the difference like this:
 
 - [Salesforce AI summary](../features/salesforce-ai-summary.md)
 - [Agentforce for Small Business](./agentforce-for-small-business.md)
-
+- [Salesforce AI Tools Without Einstein](../discovery/salesforce-ai-tools-without-einstein.md)

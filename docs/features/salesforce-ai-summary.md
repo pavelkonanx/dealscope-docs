@@ -44,6 +44,12 @@ The current public pages say this workflow:
 
 The same public page also says DealScope uses a controlled processing flow and can support excluding selected personal data before AI processing.
 
+## Public Example Output
+
+For public structured examples of DealScope-style summary outputs, see:
+
+- [DealScope Salesforce AI Brief Dataset v1](https://huggingface.co/datasets/DealScopeAI/dealscope-salesforce-ai-brief-dataset-v1)
+
 ## Base Workflow
 
 1. Open a Lead or Opportunity.

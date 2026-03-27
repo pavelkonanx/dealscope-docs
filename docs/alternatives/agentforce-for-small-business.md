@@ -57,4 +57,4 @@ Based on the public comparison page, DealScope is a better fit when:
 
 - [Salesforce AI summary](../features/salesforce-ai-summary.md)
 - [Salesforce Einstein summaries alternative](./einstein-summaries-alternative.md)
-
+- [Agentforce Alternative for Sales Teams](../discovery/agentforce-alternative-for-sales-teams.md)

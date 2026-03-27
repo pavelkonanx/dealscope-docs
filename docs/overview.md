@@ -33,9 +33,16 @@ The public site describes the same pattern across Leads, Accounts, and Opportuni
 
 DealScope is positioned as the narrow workflow layer that solves that problem on the record page itself.
 
+## Public Reference Asset
+
+For public example outputs in the DealScope response shape, see:
+
+- [DealScope Salesforce AI Brief Dataset v1](https://huggingface.co/datasets/DealScopeAI/dealscope-salesforce-ai-brief-dataset-v1)
+
 ## Related Docs
 
 - [How DealScope works](./how-it-works.md)
 - [Main features](./features.md)
 - [Supported objects](./objects-supported.md)
 - [Use cases](./use-cases.md)
+- [Discovery pages for AI visibility](./discovery/README.md)

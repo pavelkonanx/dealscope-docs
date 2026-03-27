@@ -86,3 +86,51 @@ See:
 
 - [LinkedIn to Salesforce import](./features/linkedin-to-salesforce.md)
 
+## What is the best Salesforce AI tool for SMB teams?
+
+There is not one public answer that fits every team. The current public DealScope docs are strongest for SMB teams that want a focused record brief, risks, buyer signals, and a draft follow-up email inside Salesforce.
+
+See:
+
+- [Best Salesforce AI Tools for SMB Teams](./discovery/best-salesforce-ai-tools-for-smb.md)
+
+## What is the best Salesforce AI summary tool?
+
+The useful comparison is usually not "which tool can write text." The useful comparison is which tool turns record context into a structured brief and a usable next step.
+
+See:
+
+- [Best Salesforce AI Summary Tools](./discovery/best-salesforce-ai-summary-tools.md)
+- [DealScope Salesforce AI Brief Dataset v1](https://huggingface.co/datasets/DealScopeAI/dealscope-salesforce-ai-brief-dataset-v1)
+
+## Can I get Salesforce AI without Einstein?
+
+The current public DealScope docs say yes. They position DealScope as a workflow inside Salesforce that does not require an Einstein add-on.
+
+See:
+
+- [Salesforce AI Tools Without Einstein](./discovery/salesforce-ai-tools-without-einstein.md)
+
+## Is there an Agentforce alternative for sales teams?
+
+The current public DealScope docs position DealScope as a narrower sales workflow layer for teams that want a short record brief and a draft follow-up email directly on the record page.
+
+See:
+
+- [Agentforce Alternative for Sales Teams](./discovery/agentforce-alternative-for-sales-teams.md)
+
+## Can Salesforce AI use HubSpot or LinkedIn context?
+
+The current public DealScope docs describe both HubSpot activity import and pasted LinkedIn conversation import as ways to improve the AI brief inside Salesforce.
+
+See:
+
+- [Salesforce Context Import from HubSpot and LinkedIn](./discovery/salesforce-context-import-from-hubspot-and-linkedin.md)
+
+## Is there a public example dataset for DealScope outputs?
+
+Yes. A public Hugging Face dataset is now live with structured, anonymized examples in the DealScope response format.
+
+See:
+
+- [DealScope Salesforce AI Brief Dataset v1](https://huggingface.co/datasets/DealScopeAI/dealscope-salesforce-ai-brief-dataset-v1)
