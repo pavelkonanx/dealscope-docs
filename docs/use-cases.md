@@ -80,3 +80,31 @@ The public HubSpot page positions DealScope as a way to:
 Related page:
 
 - [HubSpot to Salesforce import](./features/hubspot-to-salesforce.md)
+
+## Bringing Twilio SMS into the Salesforce Timeline
+
+Some deals move fastest over text, but that context never makes it back into CRM.
+
+The current public Twilio page positions DealScope as a way to:
+
+- bring Twilio conversations into Salesforce activity history
+- include SMS in the AI summary
+- use message context for signals and draft emails
+
+Related page:
+
+- [Twilio-powered SMS in Salesforce](./features/twilio-salesforce-integration.md)
+
+## Logging Voice Notes Without Typing
+
+Some reps never write clean notes after a call because the logging step takes too long.
+
+The current public voice page positions DealScope as a way to:
+
+- capture spoken notes directly in Salesforce
+- convert them into structured activity
+- refresh the summary and draft email instantly
+
+Related page:
+
+- [Voice to CRM in Salesforce](./features/salesforce-voice-to-crm.md)

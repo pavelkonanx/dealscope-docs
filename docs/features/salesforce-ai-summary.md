@@ -60,5 +60,8 @@ For public structured examples of DealScope-style summary outputs, see:
 ## Related Docs
 
 - [How it works](../how-it-works.md)
+- [AI Follow-Up Email for Salesforce](./ai-follow-up-email.md)
 - [Salesforce Einstein summaries alternative](../alternatives/einstein-summaries-alternative.md)
 - [Supported objects](../objects-supported.md)
+- [Twilio-powered SMS in Salesforce](./twilio-salesforce-integration.md)
+- [Voice to CRM in Salesforce](./salesforce-voice-to-crm.md)

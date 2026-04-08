@@ -33,6 +33,16 @@ The public site describes the same pattern across Leads, Accounts, and Opportuni
 
 DealScope is positioned as the narrow workflow layer that solves that problem on the record page itself.
 
+## Additional Public Workflow Pages
+
+The current public site also includes workflow pages for:
+
+- LinkedIn conversation import
+- HubSpot activity import
+- Twilio SMS into Salesforce activity
+- voice notes converted into CRM activity
+- guide pages for custom model, privacy, and AI limit questions
+
 ## Public Reference Asset
 
 For public example outputs in the DealScope response shape, see:

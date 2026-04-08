@@ -15,6 +15,7 @@ The public pages state that:
 - stakeholder processing can use role-based identifiers instead of names
 - personal data can be excluded before processing
 - a filtering layer removes personal data such as email addresses, phone numbers, names when possible, and other sensitive fields before AI processing
+- filtered values are restored locally inside Salesforce after the AI response is merged back
 
 ## Processing and Storage Statements
 
@@ -27,6 +28,7 @@ The public pages also state that:
 - minimal operational logs are stored for reliability
 - CRM payload storage is disabled by default
 - the backend does not permanently store CRM records
+- future versions may support configurable field allowlists and redaction rules
 
 ## What Is Not Publicly Documented
 

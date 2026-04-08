@@ -58,3 +58,4 @@ The public site does not present this as a full customer success platform. It pr
 - [Overview](../overview.md)
 - [Use cases](../use-cases.md)
 - [Supported objects](../objects-supported.md)
+- [AI Follow-Up Email for Salesforce](./ai-follow-up-email.md)

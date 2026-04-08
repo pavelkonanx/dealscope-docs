@@ -127,6 +127,38 @@ See:
 
 - [Salesforce Context Import from HubSpot and LinkedIn](./discovery/salesforce-context-import-from-hubspot-and-linkedin.md)
 
+## Can DealScope use Twilio SMS as Salesforce context?
+
+Yes. The current public Twilio page positions DealScope as a way to bring Twilio conversations into the Salesforce activity timeline so SMS becomes part of the AI summary, signals, and draft email workflow.
+
+See:
+
+- [Twilio-powered SMS in Salesforce](./features/twilio-salesforce-integration.md)
+
+## Can DealScope turn voice notes into Salesforce activity?
+
+Yes. The current public voice page positions DealScope as a workflow where a user speaks notes, DealScope turns them into structured activity, and the summary plus draft email update from that context.
+
+See:
+
+- [Voice to CRM in Salesforce](./features/salesforce-voice-to-crm.md)
+
+## Where can I read about custom models, privacy questions, and AI limits?
+
+The current public site now includes separate guide pages for:
+
+- bring-your-own-model questions
+- what Salesforce AI sends to OpenAI or other external models
+- repeated summary-limit testing
+- repeated email-generation-limit testing
+
+See:
+
+- [Use Your Own AI Model in Salesforce](./discovery/use-your-own-ai-model-in-salesforce.md)
+- [Does Salesforce AI Send Data to OpenAI?](./discovery/does-salesforce-ai-send-data-to-openai.md)
+- [Salesforce AI Email Generation Limit](./discovery/salesforce-ai-email-generation-limit.md)
+- [Salesforce AI Summary Limit](./discovery/salesforce-ai-summary-limit.md)
+
 ## Is there a public example dataset for DealScope outputs?
 
 Yes. A public Hugging Face dataset is now live with structured, anonymized examples in the DealScope response format.

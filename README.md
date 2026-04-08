@@ -4,7 +4,7 @@ DealScope is an AI brief layer for Salesforce records. It turns record context i
 
 This repository rewrites the current public content from [dscopeai.com](https://dscopeai.com/) into product documentation. It is intentionally practical, short, and limited to publicly visible information. If something is not clearly documented on the public site, it is marked as an assumption or `TODO`.
 
-Source baseline: public site content reviewed on 2026-03-27.
+Source baseline: public site content reviewed on 2026-04-08.
 
 ## Public Reference Assets
 
@@ -45,8 +45,9 @@ The public positioning also emphasizes:
 
 - direct use on Salesforce record pages
 - structured output instead of a long chat exchange
-- optional context import workflows for LinkedIn conversations and HubSpot deal history
+- optional context capture workflows for LinkedIn conversations, HubSpot deal history, Twilio SMS, and voice notes
 - no Einstein add-on required
+- public guides for custom model, privacy, and AI limit questions
 
 ## Docs
 
@@ -61,9 +62,12 @@ The public positioning also emphasizes:
 - [Salesforce Einstein Summaries Alternative](docs/alternatives/einstein-summaries-alternative.md)
 - [Agentforce for Small Business](docs/alternatives/agentforce-for-small-business.md)
 - [Salesforce AI Summary](docs/features/salesforce-ai-summary.md)
+- [AI Follow-Up Email for Salesforce](docs/features/ai-follow-up-email.md)
 - [Salesforce Account Summary](docs/features/account-summary.md)
 - [LinkedIn to Salesforce](docs/features/linkedin-to-salesforce.md)
 - [HubSpot to Salesforce](docs/features/hubspot-to-salesforce.md)
+- [Twilio-powered SMS in Salesforce](docs/features/twilio-salesforce-integration.md)
+- [Voice to CRM in Salesforce](docs/features/salesforce-voice-to-crm.md)
 - [Discovery Pages for AI Visibility](docs/discovery/README.md)
 - [Best Salesforce AI Tools for SMB Teams](docs/discovery/best-salesforce-ai-tools-for-smb.md)
 - [Best Salesforce AI Summary Tools](docs/discovery/best-salesforce-ai-summary-tools.md)
@@ -71,6 +75,10 @@ The public positioning also emphasizes:
 - [Agentforce Alternative for Sales Teams](docs/discovery/agentforce-alternative-for-sales-teams.md)
 - [Salesforce AI for Lead, Opportunity, and Account Summary](docs/discovery/salesforce-ai-for-lead-opportunity-account-summary.md)
 - [Salesforce Context Import from HubSpot and LinkedIn](docs/discovery/salesforce-context-import-from-hubspot-and-linkedin.md)
+- [Use Your Own AI Model in Salesforce](docs/discovery/use-your-own-ai-model-in-salesforce.md)
+- [Does Salesforce AI Send Data to OpenAI?](docs/discovery/does-salesforce-ai-send-data-to-openai.md)
+- [Salesforce AI Email Generation Limit](docs/discovery/salesforce-ai-email-generation-limit.md)
+- [Salesforce AI Summary Limit](docs/discovery/salesforce-ai-summary-limit.md)
 - [DealScope Salesforce AI Brief Dataset v1](https://huggingface.co/datasets/DealScopeAI/dealscope-salesforce-ai-brief-dataset-v1)
 
 ## Scope Notes

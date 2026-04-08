@@ -28,6 +28,8 @@ Some public pages also describe add-on workflows for missing context:
 
 - [LinkedIn to Salesforce import](./features/linkedin-to-salesforce.md)
 - [HubSpot to Salesforce activity import](./features/hubspot-to-salesforce.md)
+- [Twilio-powered SMS in Salesforce](./features/twilio-salesforce-integration.md)
+- [Voice to CRM in Salesforce](./features/salesforce-voice-to-crm.md)
 
 These pages describe ways to bring external communication into the record so the AI brief has better source context.
 
